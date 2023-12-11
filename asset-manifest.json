@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/lana-jewels-site-react/static/css/main.5d9ffac0.css",
-    "main.js": "/lana-jewels-site-react/static/js/main.6ebc7986.js",
+    "main.js": "/lana-jewels-site-react/static/js/main.7affa2fa.js",
     "static/js/787.8356474d.chunk.js": "/lana-jewels-site-react/static/js/787.8356474d.chunk.js",
     "static/media/product1.png": "/lana-jewels-site-react/static/media/product1.9356f53bb2b6544a7374.png",
     "static/media/quiz.png": "/lana-jewels-site-react/static/media/quiz.e9f224adaf1cadb5b0cd.png",
@@ -15,11 +15,11 @@
     "static/media/site-logo.png": "/lana-jewels-site-react/static/media/site-logo.7ccfec3f2954a86f0de4.png",
     "index.html": "/lana-jewels-site-react/index.html",
     "main.5d9ffac0.css.map": "/lana-jewels-site-react/static/css/main.5d9ffac0.css.map",
-    "main.6ebc7986.js.map": "/lana-jewels-site-react/static/js/main.6ebc7986.js.map",
+    "main.7affa2fa.js.map": "/lana-jewels-site-react/static/js/main.7affa2fa.js.map",
     "787.8356474d.chunk.js.map": "/lana-jewels-site-react/static/js/787.8356474d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5d9ffac0.css",
-    "static/js/main.6ebc7986.js"
+    "static/js/main.7affa2fa.js"
   ]
 }
