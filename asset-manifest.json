@@ -1,10 +1,22 @@
 {
   "files": {
-    "main.css": "/lana-jewels-site-react/static/css/main.5d9ffac0.css",
-    "main.js": "/lana-jewels-site-react/static/js/main.7affa2fa.js",
+    "main.css": "/lana-jewels-site-react/static/css/main.4642075d.css",
+    "main.js": "/lana-jewels-site-react/static/js/main.31b87c4b.js",
     "static/js/787.8356474d.chunk.js": "/lana-jewels-site-react/static/js/787.8356474d.chunk.js",
+    "static/media/CormorantGaramond-Light.ttf": "/lana-jewels-site-react/static/media/CormorantGaramond-Light.5a46964bcf8ba603b8c0.ttf",
+    "static/media/promotion1-mobile.png": "/lana-jewels-site-react/static/media/promotion1-mobile.8924349d9a78e110677e.png",
+    "static/media/promotion1.png": "/lana-jewels-site-react/static/media/promotion1.8bb2e33255494de2ce14.png",
+    "static/media/promotion2-mobile.png": "/lana-jewels-site-react/static/media/promotion2-mobile.7ff28fd81ce5d072d0bb.png",
+    "static/media/product8.png": "/lana-jewels-site-react/static/media/product8.7ce08d40171c2c6e8d34.png",
+    "static/media/product4.png": "/lana-jewels-site-react/static/media/product4.bc94586fe7f7b3395260.png",
+    "static/media/promotion2.png": "/lana-jewels-site-react/static/media/promotion2.b03f5608ade264095eb3.png",
     "static/media/product1.png": "/lana-jewels-site-react/static/media/product1.9356f53bb2b6544a7374.png",
     "static/media/quiz.png": "/lana-jewels-site-react/static/media/quiz.e9f224adaf1cadb5b0cd.png",
+    "static/media/product9.png": "/lana-jewels-site-react/static/media/product9.f56477e151379a10e4be.png",
+    "static/media/product6.png": "/lana-jewels-site-react/static/media/product6.eb09c1ad6e1ad7cd7099.png",
+    "static/media/product7.png": "/lana-jewels-site-react/static/media/product7.691062522e16a7a5f772.png",
+    "static/media/quiz-mobile.png": "/lana-jewels-site-react/static/media/quiz-mobile.e72c849745f41c157e2f.png",
+    "static/media/product5.png": "/lana-jewels-site-react/static/media/product5.7d47e3d15fa16de8833a.png",
     "static/media/product3.png": "/lana-jewels-site-react/static/media/product3.aca31ba68e5455384960.png",
     "static/media/product2.png": "/lana-jewels-site-react/static/media/product2.adb72141c28057098a6c.png",
     "static/media/image1.png": "/lana-jewels-site-react/static/media/image1.61ca76b90e23d78606e2.png",
@@ -13,13 +25,17 @@
     "static/media/image5.png": "/lana-jewels-site-react/static/media/image5.8f9390bac297220dcd75.png",
     "static/media/image3.png": "/lana-jewels-site-react/static/media/image3.288f2a1383611d224ee8.png",
     "static/media/site-logo.png": "/lana-jewels-site-react/static/media/site-logo.7ccfec3f2954a86f0de4.png",
+    "static/media/slick.svg": "/lana-jewels-site-react/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/lana-jewels-site-react/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/lana-jewels-site-react/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/lana-jewels-site-react/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/lana-jewels-site-react/index.html",
-    "main.5d9ffac0.css.map": "/lana-jewels-site-react/static/css/main.5d9ffac0.css.map",
-    "main.7affa2fa.js.map": "/lana-jewels-site-react/static/js/main.7affa2fa.js.map",
+    "main.4642075d.css.map": "/lana-jewels-site-react/static/css/main.4642075d.css.map",
+    "main.31b87c4b.js.map": "/lana-jewels-site-react/static/js/main.31b87c4b.js.map",
     "787.8356474d.chunk.js.map": "/lana-jewels-site-react/static/js/787.8356474d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5d9ffac0.css",
-    "static/js/main.7affa2fa.js"
+    "static/css/main.4642075d.css",
+    "static/js/main.31b87c4b.js"
   ]
 }
